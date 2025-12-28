@@ -1,2 +1,2 @@
 # Go
-Códigos diversos em Go
+Various codes
