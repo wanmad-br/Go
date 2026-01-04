@@ -1,9 +1,9 @@
 package main
 
 import (
-	"fmt" // formata entrada e saida de dados
-	"os"  // recursos do S.O.
-	"strconv" // conversao de strings
+	"fmt" // format input/output data
+	"os"  // OS resources
+	"strconv" // String conversion
 )
 
 //recebe um inteiro e devolve boleano
