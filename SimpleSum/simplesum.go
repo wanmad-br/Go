@@ -11,7 +11,6 @@ func add(a int, b int) int {
 
 func main() {
 	// Declare variables
-	var name string = "Student"
 	num1 := 10 // Short variable declaration
 	num2 := 5
 
