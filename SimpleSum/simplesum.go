@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// add is a function that takes two integers and returns their sum
+// add is a function that takes two integers and returns their sum to user
 func add(a int, b int) int {
 	return a + b
 }
