@@ -1,4 +1,4 @@
 # Go
 Various codes
 
-#need examples
+#to do: implement Benchmark with Java 21 Virtual Threads
